@@ -6,9 +6,9 @@ import { Link } from 'react-router-dom';
 class Header extends Component {
   render () {
     return (
-			<nav className="navbar navbar-expand-lg navbar-light p-0 py-3">
+			<nav className="navbar navbar-expand-lg navbar-light p-0 py-3 container">
         <div className="d-flex">
-          <Link to="/">
+          <Link to="/" className="logo-container">
 			      <img src={logo} className="logo" alt="logo" />
           </Link>
 			    <button className="navbar-toggler hamburger" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -24,8 +24,11 @@ class Header extends Component {
             <NavLink to="/space">
               <span>The Space</span>
             </NavLink>
-            <NavLink to="/about">
-              <span>About</span>
+            <NavLink to="/schedule">
+              <span>Schedule</span>
+            </NavLink>
+            <NavLink to="/prebuild">
+              <span>Prebuild</span>
             </NavLink>
 			    </ul>
 			  </div>
@@ -33,5 +36,8 @@ class Header extends Component {
     );
   }
 }
+//             <NavLink to="/FAQ">
+//               <span>FAQ</span>
+//             </NavLink>
 
 export default Header;

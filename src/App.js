@@ -4,12 +4,13 @@ import {Switch, Route, Redirect} from 'react-router-dom'
 
 import Header from './components/Header';
 import HomePage from './components/HomePage';
-import About from './components/About';
 import Space from './components/Space';
+import FAQ from './components/FAQ';
+import Prebuild from './components/Prebuild';
+import Schedule from './components/Schedule';
 import './App.css';
 
 global.jQuery = require('jquery');
-require('bootstrap');
 
 class App extends Component {
   constructor(props) {
@@ -29,14 +30,15 @@ class App extends Component {
 
   render() {
     return (
-      <div className="App container">
+      <div className="App">
         <Header />
-          <div>
-
+          <div className="container">
             <Switch>
               <Route exact path="/" component={HomePage}/>
-              <Route path="/about" component={About}/>
               <Route path="/space" component={Space}/>
+              <Route path="/FAQ" component={FAQ}/>
+              <Route path="/prebuild" component={Prebuild}/>
+              <Route path="/schedule" component={Schedule}/>
               <Redirect to="/" />
             </Switch>
         </div>
