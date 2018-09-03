@@ -1,14 +1,21 @@
 {
-  "main.css": "static/css/main.65d612f1.css",
-  "main.css.map": "static/css/main.65d612f1.css.map",
-  "main.js": "static/js/main.b760aec2.js",
-  "main.js.map": "static/js/main.b760aec2.js.map",
-  "static/media/logo.svg": "static/media/logo.3aa786e7.svg",
+  "main.css": "static/css/main.037559cd.css",
+  "main.css.map": "static/css/main.037559cd.css.map",
+  "main.js": "static/js/main.236212b3.js",
+  "main.js.map": "static/js/main.236212b3.js.map",
+  "static/media/logo.png": "static/media/logo.c35d1498.png",
   "static/media/mh-space-1.jpg": "static/media/mh-space-1.c636001b.jpg",
   "static/media/mh-space-2.jpg": "static/media/mh-space-2.4c851fa8.jpg",
   "static/media/mh-space-5.jpg": "static/media/mh-space-5.01606b52.jpg",
   "static/media/mh-space-6.jpg": "static/media/mh-space-6.1e154a0e.jpg",
   "static/media/mh-space-7.jpg": "static/media/mh-space-7.8b98c16a.jpg",
   "static/media/mh-space-8.jpg": "static/media/mh-space-8.c3218f13.jpg",
-  "static/media/mh.jpg": "static/media/mh.3d38bcf7.jpg"
+  "static/media/mh.jpg": "static/media/mh.3d38bcf7.jpg",
+  "static/media/music.jpg": "static/media/music.75c39801.jpg",
+  "static/media/plan-4.jpg": "static/media/plan-4.35c2a980.jpg",
+  "static/media/plan-5.jpg": "static/media/plan-5.6f1eaa72.jpg",
+  "static/media/plan-6.jpg": "static/media/plan-6.1185be2b.jpg",
+  "static/media/shack.jpg": "static/media/shack.33455883.jpg",
+  "static/media/wall.jpg": "static/media/wall.13870094.jpg",
+  "static/media/yellow_pano.jpg": "static/media/yellow_pano.b6324478.jpg"
 }
