@@ -1,8 +1,10 @@
 {
-  "main.css": "static/css/main.037559cd.css",
-  "main.css.map": "static/css/main.037559cd.css.map",
-  "main.js": "static/js/main.236212b3.js",
-  "main.js.map": "static/js/main.236212b3.js.map",
+  "main.css": "static/css/main.b1e0f0ca.css",
+  "main.css.map": "static/css/main.b1e0f0ca.css.map",
+  "main.js": "static/js/main.065d69d0.js",
+  "main.js.map": "static/js/main.065d69d0.js.map",
+  "static/media/art-1.jpg": "static/media/art-1.b998d20d.jpg",
+  "static/media/geese.jpg": "static/media/geese.3efb0fd0.jpg",
   "static/media/logo.png": "static/media/logo.c35d1498.png",
   "static/media/mh-space-1.jpg": "static/media/mh-space-1.c636001b.jpg",
   "static/media/mh-space-2.jpg": "static/media/mh-space-2.4c851fa8.jpg",
@@ -10,12 +12,10 @@
   "static/media/mh-space-6.jpg": "static/media/mh-space-6.1e154a0e.jpg",
   "static/media/mh-space-7.jpg": "static/media/mh-space-7.8b98c16a.jpg",
   "static/media/mh-space-8.jpg": "static/media/mh-space-8.c3218f13.jpg",
-  "static/media/mh.jpg": "static/media/mh.3d38bcf7.jpg",
+  "static/media/mh.jpg": "static/media/mh.37a74926.jpg",
   "static/media/music.jpg": "static/media/music.75c39801.jpg",
   "static/media/plan-4.jpg": "static/media/plan-4.35c2a980.jpg",
   "static/media/plan-5.jpg": "static/media/plan-5.6f1eaa72.jpg",
   "static/media/plan-6.jpg": "static/media/plan-6.1185be2b.jpg",
-  "static/media/shack.jpg": "static/media/shack.33455883.jpg",
-  "static/media/wall.jpg": "static/media/wall.13870094.jpg",
-  "static/media/yellow_pano.jpg": "static/media/yellow_pano.b6324478.jpg"
+  "static/media/shack.jpg": "static/media/shack.33455883.jpg"
 }
